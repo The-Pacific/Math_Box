@@ -15,5 +15,9 @@ def multiply(a, b):
 
 def divide_new(a, b):
     return a/b
+<<<<<<< HEAD
     
     
+=======
+
+>>>>>>> main
